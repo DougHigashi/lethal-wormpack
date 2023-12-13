@@ -11,6 +11,9 @@ Criando o modpack
 ### v1.0.1
 Removendo ItemQuickSwitch, adicionando o Helmet-Cameras e atualizando o CompatibilityChecker.
 
+### v1.2.0
+Corrigindo versão do modpack pra parar de usar versão desatualizada como mais atual.
+
 #
 
 Mods incluídos:
