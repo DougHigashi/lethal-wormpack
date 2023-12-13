@@ -29,3 +29,5 @@ Mods incluídos:
     - Aumenta a duração das noites das luas
 - **RugbugRedfern-Skinwalkers-2.0.1**
     - Mobs podem imitar a voz dos seus amigos
+- **brigade-FreeBirdMod-1.0.0**
+    - O Jester agora toca o solo de Free Bird
