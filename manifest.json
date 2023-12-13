@@ -1,7 +1,7 @@
 {
   "name": "Wormins_Modpack",
-  "version_number": "1.1.0",
-  "website_url": "https://github.com/DougHigashi",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/DougHigashi/lethal-wormpack",
   "description": "Modpack for me and the worms.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
@@ -10,7 +10,7 @@
     "x753-Mimics-2.1.0",
     "EladNLG-EladsHUD-1.1.0",
     "granny-ScrapCalculator-1.0.1",
-    "Ryokune-CompatibilityChecker-1.0.2",
+    "Ryokune-CompatibilityChecker-1.0.4",
     "vasanex-ItemQuickSwitch-1.1.0",
     "ATK-LaterNights-0.9.1",
     "RugbugRedfern-Skinwalkers-2.0.1",
@@ -19,6 +19,9 @@
     "brigade-FreeBirdMod-1.0.0",
     "Evaisa-HookGenPatcher-0.0.5",
     "Evaisa-LethalLib-0.6.2",
-    "Evaisa-LethalThings-0.7.1"
+    "Evaisa-LethalThings-0.7.1",
+    "FlipMods-ReservedItemSlotCore-1.4.4",
+    "MaxWasUnavailable-ScrollInverter-1.0.0",
+    "RickArg-Helmet_Cameras-2.1.5"
   ]
 }

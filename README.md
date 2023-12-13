@@ -8,6 +8,9 @@ Modpack com alterações pra melhorar algumas funções básicas do jogo, e adic
 ### v1.0.0
 Criando o modpack
 
+### v1.0.1
+Removendo ItemQuickSwitch, adicionando o Helmet-Cameras e atualizando o CompatibilityChecker.
+
 #
 
 Mods incluídos:
@@ -22,12 +25,14 @@ Mods incluídos:
 - **granny-ScrapCalculator-1.0.1**
     - Destaca o loot mínimo para bater a cota
 - **Ryokune-CompatibilityChecker-1.0.2**
-    - Destaca os mods faltantes para você entrar em uma lobby 
-- **vasanex-ItemQuickSwitch-1.1.0**
-    - Atribui os slots do inventário para as teclas 1, 2, 3 e 4. Os emotes vão para o F1 e F2
+    - Destaca os mods faltantes para você entrar em uma lobby
 - **ATK-LaterNights-0.9.1**
     - Aumenta a duração das noites das luas
 - **RugbugRedfern-Skinwalkers-2.0.1**
     - Mobs podem imitar a voz dos seus amigos
 - **brigade-FreeBirdMod-1.0.0**
     - O Jester agora toca o solo de Free Bird
+- **MaxWasUnavailable-ScrollInverter-1.0.0**
+    - Inverte o scroll no inventário
+- **RickArg-Helmet_Cameras-2.1.5**
+    - Coloca a opção de ver a visão dos jogadores na nave através de uma câmera no capacete de cada jogador
