@@ -17,6 +17,9 @@ Corrigindo versão do modpack pra parar de usar versão desatualizada como mais 
 ### v1.2.1
 Adicionando o Sligili-More_Emotes, BetterStamina, LateCompany, ShipLoot e LetMeLookDown.
 
+### v1.2.2
+Adicionando o BoykisserBoomboxMusic, Brutal_Company_Plus, FasterItemDropship, QuotaRollover e Symbiosis.
+
 #
 
 Mods incluídos:
@@ -52,3 +55,13 @@ Mods incluídos:
     - Mostra o total do loot na nave
 - **FlipMods-LetMeLookDown**
     - Deixa você olhar 100% pra baixo
+- **AlexaRawr-BoykisserBoomboxMusic**
+    - Chippy chippy chappa chappa dubi dubi daba daba
+- **Nips-Brutal_Company_Plus**
+    - Adiciona configurações de dificuldade e ajustes de spawn rate de inimigos e loot
+- **FlipMods-FasterItemDropship**
+    - Faz a nave de entrega de itens chegar bem mais rápido
+- **boxofbiscuits97-QuotaRollover**
+    - A cota excedente é adicionada a próxima cota
+- **NiceHairs-Symbiosis**
+    - O inseto agora pode usar os itens que ele pega do chão
