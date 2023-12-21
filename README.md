@@ -14,28 +14,41 @@ Removendo ItemQuickSwitch, adicionando o Helmet-Cameras e atualizando o Compatib
 ### v1.2.0
 Corrigindo versão do modpack pra parar de usar versão desatualizada como mais atual.
 
+### v1.2.1
+Adicionando o Sligili-More_Emotes, BetterStamina, LateCompany, ShipLoot e LetMeLookDown.
+
 #
 
 Mods incluídos:
-- **Suskitech-AlwaysHearActiveWalkies-1.4.2**
+- **Suskitech-AlwaysHearActiveWalkies**
     - Ouvir Walkie-Talkies de outros jogadores por perto
-- **notnotnotswipez-MoreCompany-1.7.2**
+- **notnotnotswipez-MoreCompany**
     - Aumenta o tamanho máximo da lobby
-- **x753-Mimics-2.1.0**
+- **x753-Mimics**
     - Adiciona mímicos 👁
-- **EladNLG-EladsHUD-1.1.0**
+- **EladNLG-EladsHUD**
     - Melhora a HUD do jogo
-- **granny-ScrapCalculator-1.0.1**
+- **granny-ScrapCalculator**
     - Destaca o loot mínimo para bater a cota
-- **Ryokune-CompatibilityChecker-1.0.2**
+- **Ryokune-CompatibilityChecker**
     - Destaca os mods faltantes para você entrar em uma lobby
-- **ATK-LaterNights-0.9.1**
+- **ATK-LaterNights**
     - Aumenta a duração das noites das luas
-- **RugbugRedfern-Skinwalkers-2.0.1**
+- **RugbugRedfern-Skinwalker**
     - Mobs podem imitar a voz dos seus amigos
-- **brigade-FreeBirdMod-1.0.0**
+- **brigade-FreeBirdMod**
     - O Jester agora toca o solo de Free Bird
-- **MaxWasUnavailable-ScrollInverter-1.0.0**
+- **MaxWasUnavailable-ScrollInverter**
     - Inverte o scroll no inventário
-- **RickArg-Helmet_Cameras-2.1.5**
+- **RickArg-Helmet_Cameras**
     - Coloca a opção de ver a visão dos jogadores na nave através de uma câmera no capacete de cada jogador
+- **Sligili-More_Emotes**
+    - Coloca uma gama de emotes adicionais
+- **FlipMods-BetterStamina**
+    - Deixa o consumo e o regen de stamina mais amigável
+- **anormaltwig-LateCompany**
+    - Deixa um jogador entrar na lobby depois de começar o save
+- **tinyhoot-ShipLoot**
+    - Mostra o total do loot na nave
+- **FlipMods-LetMeLookDown**
+    - Deixa você olhar 100% pra baixo
