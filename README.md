@@ -23,6 +23,9 @@ Adicionando o BoykisserBoomboxMusic, Brutal_Company_Plus, FasterItemDropship, Qu
 ### v1.2.3
 Removendo Sligili-More_Emotes, adicionando Midge-PushCompany, atg-FnafPowerOutage, OrtonLongGaming-FreddyBracken e ManiaBania-1000_Quota_Stare.
 
+### v1,2,4
+Adicionando FlipMods-TooManyEmotes.
+
 #
 
 Mods incluídos:
