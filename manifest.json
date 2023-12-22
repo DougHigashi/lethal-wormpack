@@ -1,6 +1,6 @@
 {
   "name": "Wormins_Modpack",
-  "version_number": "1.2.4",
+  "version_number": "1.2.5",
   "website_url": "https://github.com/DougHigashi/lethal-wormpack",
   "description": "Modpack for me and the worms.",
   "dependencies": [
@@ -39,6 +39,7 @@
     "OrtonLongGaming-FreddyBracken-1.0.6",
     "x753-More_Suits-1.4.1",
     "ManiaBania-1000_Quota_Stare-1.0.0",
-    "FlipMods-TooManyEmotes-1.5.3"
+    "FlipMods-TooManyEmotes-1.5.3",
+    "EliteMasterEric-Coroner-1.4.2"
   ]
 }
