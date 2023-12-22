@@ -20,6 +20,9 @@ Adicionando o Sligili-More_Emotes, BetterStamina, LateCompany, ShipLoot e LetMeL
 ### v1.2.2
 Adicionando o BoykisserBoomboxMusic, Brutal_Company_Plus, FasterItemDropship, QuotaRollover e Symbiosis.
 
+### v1.2.3
+Removendo Sligili-More_Emotes, adicionando Midge-PushCompany, atg-FnafPowerOutage, OrtonLongGaming-FreddyBracken e ManiaBania-1000_Quota_Stare.
+
 #
 
 Mods incluídos:
@@ -45,8 +48,6 @@ Mods incluídos:
     - Inverte o scroll no inventário
 - **RickArg-Helmet_Cameras**
     - Coloca a opção de ver a visão dos jogadores na nave através de uma câmera no capacete de cada jogador
-- **Sligili-More_Emotes**
-    - Coloca uma gama de emotes adicionais
 - **FlipMods-BetterStamina**
     - Deixa o consumo e o regen de stamina mais amigável
 - **anormaltwig-LateCompany**
@@ -65,3 +66,9 @@ Mods incluídos:
     - A cota excedente é adicionada a próxima cota
 - **NiceHairs-Symbiosis**
     - O inseto agora pode usar os itens que ele pega do chão
+- **Midge-PushCompany**
+    - Agora você pode empurrar seus amigos
+- **atg-FnafPowerOutage**
+    - Agora o som da queda de energia causada por remover a bateria da planta é substituida pela SFX  Toreador March do Freddy Fazbear
+- **OrtonLongGaming-FreddyBracken**
+    - O brackern é substituido pelo Freddy Fazbear
