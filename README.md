@@ -26,7 +26,8 @@ Removendo Sligili-More_Emotes, adicionando Midge-PushCompany, atg-FnafPowerOutag
 ### v1.2.4
 Adicionando FlipMods-TooManyEmotes.
 
-#
+### v1.2.6
+Deixando o modpack mais vanilla e menos alastro.
 
 Mods incluídos:
 - **Suskitech-AlwaysHearActiveWalkies**
