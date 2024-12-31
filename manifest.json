@@ -1,6 +1,6 @@
 {
   "name": "Wormins_Modpack",
-  "version_number": "1.2.6",
+  "version_number": "1.2.7",
   "website_url": "https://github.com/DougHigashi/lethal-wormpack",
   "description": "Modpack for me and the worms.",
   "dependencies": [
@@ -18,6 +18,7 @@
     "RugbugRedfern-Skinwalkers-5.0.0",
     "MaxWasUnavailable-ScrollInverter-1.0.0",
     "anormaltwig-LateCompany-1.0.18",
-    "FlipMods-TooManyEmotes-2.2.14"
+    "FlipMods-TooManyEmotes-2.2.14",
+    "RickArg-Helmet_Cameras-2.1.5"
   ]
 }

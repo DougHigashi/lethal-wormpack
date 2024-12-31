@@ -29,6 +29,9 @@ Adicionando FlipMods-TooManyEmotes.
 ### v1.2.6
 Deixando o modpack mais vanilla e menos alastro.
 
+### v1.2.7
+Adicionando o helmet cameras
+
 Mods incluídos:
 - **Suskitech-AlwaysHearActiveWalkies**
     - Ouvir Walkie-Talkies de outros jogadores por perto
